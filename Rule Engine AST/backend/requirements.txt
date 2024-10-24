@@ -1,0 +1,16 @@
+## License
+
+This project is licensed under the MIT License.
+```
+
+### requirements.txt
+
+```
+Flask==2.0.2
+mysql-connector-python==8.0.26
+```
+
+### Notes
+- You can adjust the versions in `requirements.txt` according to your project specifications.
+- The README file provides a clear overview of the project, how to set it up, and the expected workflows.
+- Make sure to test your APIs and the frontend to ensure everything works seamlessly after following these instructions. Let me know if you need any further adjustments or details!
