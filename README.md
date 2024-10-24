@@ -11,7 +11,7 @@ The Rule Engine application aims to determine user eligibility based on various 
 
 ## Project Flow
 
-1. **Frontend**: A simple user interface allows users to input rules and user data.
+1. **Frontend**: A simple user interface allows users to input rules and user data. your need to install node modules for the frontend
 2. **Backend**: A Flask API handles requests to create rules, combine them, and evaluate the rules against user data. The backend interacts with a MySQL database to store the rules and their AST representations.
 3. **Data Storage**: The application utilizes a MySQL database to persist rules and their metadata, allowing for easy retrieval and manipulation.
 
